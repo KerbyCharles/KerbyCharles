@@ -1,4 +1,5 @@
 <h1 align="center">👋 Olá, seja bem-vindo ao meu perfil!</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Kerby+Charles;Estudante+de+ADS;Python+%7C+Web+%7C+SQL" alt="Typing SVG">
 
 ---
 
@@ -11,14 +12,30 @@ Atualmente, estou desenvolvendo meus conhecimentos em Python, desenvolvimento we
 ```python
 meu_perfil = {
     "nome": "Kerby Charles",
-    "curso": "4º semestre de Análise e Desenvolvimento de Sistemas",
-    "cursos_extra": ["Front-end no SENAI", "Operador de Microcomputador"],
+     "formação": {
+           "curso": "Análise e Desenvolvimento de Sistemas",
+           "semestre": "4º semestre",
+           "cursos_extra": [
+               "Front-end no SENAI",
+               "Operador de Microcomputador"
+           ]
+     },
     "tecnologias": {
-        "linguagens": ["Python", "HTML", "CSS", "JavaScript","SQL",],
-        "ferramentas": ["Miro", "Figma", "Excel"]
-    },
-    "objetivo": "Continuar evoluindo na área de tecnologia, adquirindo experiência prática e desenvolvendo projetos que contribuam para minha formação profissional.",
-    "Curiosidade": "vontade de aprender e persistência fazem parte da minha jornada."
+        "linguagens": [
+            "Python",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL"
+         ],
+         "ferramentas": [
+             "Miro",
+             "Figma",
+             "Excel"
+         ]
+     },
+     "objetivo": "Continuar evoluindo na área de tecnologia, adquirindo experiência prática e desenvolvendo projetos que contribuam para minha formação profissional.",
+     "Curiosidade": "vontade de aprender e persistência fazem parte da minha jornada."
 }
 ```
 ## Projetos
